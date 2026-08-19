@@ -1,7 +1,9 @@
 # MedOne Research
 
 <p align="center">
-  <img src="../assets/medone-logo.png" alt="MedOne Research" width="500" height="200">
+  <a href="https://medone-cro.com/">
+    <img src="../assets/medone-logo.png" alt="MedOne Research" width="600" height="200">
+  </a>
 </p>
 
 ### 🧬 Clinical Research • 📊 Data • 🔬 Science • 💻 Technology
